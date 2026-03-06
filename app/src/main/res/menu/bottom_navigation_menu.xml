@@ -1,15 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-
     <item
-        android:id="@+id/navigation_parks"
-        android:title="Parks"
-        android:icon="@drawable/ic_park"/>
-
+        android:id="@+id/menu_parks"
+        android:icon="@drawable/ic_park"
+        android:title="Parks" />
     <item
-        android:id="@+id/navigation_campgrounds"
-        android:title="Campgrounds"
-        android:icon="@drawable/ic_campground"/>
-
+        android:id="@+id/menu_campgrounds"
+        android:icon="@drawable/ic_campground"
+        android:title="Campgrounds" />
 </menu>
